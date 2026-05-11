@@ -4,8 +4,8 @@
 # Положите архивы кода или папки репозиториев в директорию inputs.code_dir
 # В inputs.notes_file можно добавить дополнительные требования, скриншоты и замечания
 project:
-    name: Питомец.ком – Разработка сервисов, клиентской части и инфраструктуры
-    english_name: Pitomets.com – Development of services, client side, and infrastructure
+    name: Питомец.ком - Разработка серверной логики, авторизации и интеграции внешних систем
+    english_name: Pitomets.com - Development of server logic, authorization, and integration of external systems
     code: "05.04"
     summary: Платформа для продажи животных.
     type: web-service
